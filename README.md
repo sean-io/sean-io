@@ -2,7 +2,7 @@
 <!--
 - ✨ I’m currently working on... 
 -->
-🌱 I'm currently learning about new ML Ops, data orchestration, and LLM tooling \
+🌱 I'm currently learning about new data ops architecture, ML Ops, and LLM tooling \
 💬 Glad to talk about the next tech disruptor, high value data stack applicaions, sci-fi content, and parent life
 
 <!--
